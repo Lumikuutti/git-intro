@@ -1,4 +1,3 @@
-# Git Exercises
 
 ## Exercise 0: Learn Command line and Git basics online materials (optional)
 
