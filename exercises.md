@@ -41,7 +41,7 @@ Some free online Git courses/tutorials available:
 3. all team members should clone the same remote repo
 4. do individually at the same time as your team mates:
    - pull changes from remote repo (not needed if repo was cloned just before)
-   - create and checkout a new development branch for your modifications  
+   - create and checkout a new development branch for your modifications
    - edit files locally (e.g. add, remove & modify rows)
    - add & commit changes
    - merge your development branch to `main` branch
@@ -66,3 +66,5 @@ Remember that the best branching strategy for your project depends on factors li
 Check related assignment in Oma for instructions.
 
 ---
+
+# Moiiiiii
